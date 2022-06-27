@@ -11,5 +11,5 @@ ft_printf é o terceiro projeto da École 42 e a proposta é fazer o seu própri
 %X printar um número em hexadecimal, maiúsculo;
 %% printar o sinal de porcentagem;
 
-Utilizei uma função variádica (src, ...) e as funções externas permitidas: va_start, va_arg, va_copy, va_end, malloc, free e write.
+Utilizei uma função variádica (src, ...) e as funções externas permitidas: va_start, va_arg, va_end, malloc, free e write.
 Teste utilizado: https://github.com/Tripouille/printfTester
